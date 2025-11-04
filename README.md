@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Aman Tiwari  
 🎯 Product Manager | AI Builder | Ex-Nike | Ex-Deloitte | Building Agentic Workflows  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri21/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aman12334)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amantiwarri)
 ![Profile Views](https://komarev.com/ghpvc/?username=aman12334&color=brightgreen&style=for-the-badge)
@@ -99,6 +99,6 @@ I build **AI-native, data-driven products** that automate workflows and deliver 
 <div align="center">
   <i>Thanks for stopping by! If you liked what you see, connect or collaborate 👇</i>  
   <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri21/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri/)
   [![Email](https://img.shields.io/badge/Email-amant10%40umd.edu-blue?style=for-the-badge)](mailto:amant10@umd.edu)
 </div>
