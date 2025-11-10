@@ -98,7 +98,6 @@ I build **AI-native, data-driven products** that automate workflows and deliver 
 
 <div align="center">
   <i>Thanks for stopping by! If you liked what you see, connect or collaborate 👇</i>  
-  <br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri/)
-  [![Email](https://img.shields.io/badge/Email-amant10%40umd.edu-blue?style=for-the-badge)](mailto:amant10@umd.edu)<br>
+  [![Email](https://img.shields.io/badge/Email-amant10%40umd.edu-blue?style=for-the-badge)](mailto:amant10@umd.edu)
 </div>
