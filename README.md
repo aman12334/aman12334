@@ -74,8 +74,6 @@ I build **AI-native, data-driven products** that automate workflows and deliver 
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman12334&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman12334&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aman12334&theme=tokyonight)
 
 </div>
