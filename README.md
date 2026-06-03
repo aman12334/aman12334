@@ -74,7 +74,7 @@ I build **AI-native, data-driven products** that automate workflows and deliver 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aman12334&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=aman12334&theme=tokyonight)
 
 </div>
 
