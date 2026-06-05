@@ -20,7 +20,7 @@
 ## 🧭 Who I Am
 
 I'm a **Product Manager** who builds at the intersection of AI, data, and engineering.
-I don't just write PRDs — I ship code, design systems, and obsess over measurable outcomes.
+I don't just write PRDs, I ship code, design systems, and obsess over measurable outcomes.
 
 > *"Build systems that make smart choices feel easy."*
 
@@ -48,7 +48,7 @@ I don't just write PRDs — I ship code, design systems, and obsess over measura
 ### 💊 [EvidentRx](https://github.com/aman12334/EvidentRx)
 **340B Pharmaceutical Compliance Platform**
 
-Enterprise-grade compliance platform with a LangGraph multi-agent workflow. Detects violations, clusters findings into investigation cases, and generates HRSA audit-ready documentation. Deterministic rules engine + AI — never the other way around.
+Enterprise-grade compliance platform with a LangGraph multi-agent workflow. Detects violations, clusters findings into investigation cases, and generates HRSA audit-ready documentation. Deterministic rules engine + AI, never the other way around.
 
 `FastAPI` `Next.js 14` `LangGraph` `PostgreSQL` `Anthropic Claude` `Celery`
 
@@ -58,7 +58,7 @@ Enterprise-grade compliance platform with a LangGraph multi-agent workflow. Dete
 ### 🚨 [OpsSentinel](https://github.com/aman12334/opssentinel)
 **Event-Driven Logistics Exception Orchestration**
 
-Stateful, asynchronous microservices communicating via a local Kafka-like event bus. 7 decoupled services — event producer → bus → processor → agent → exception engine → action service — each enforcing a strict JSON schema contract.
+Stateful, asynchronous microservices communicating via a local Kafka-like event bus. 7 decoupled services-> event producer → bus → processor → agent → exception engine → action service — each enforcing a strict JSON schema contract.
 
 `Python` `Async/Await` `Event Bus` `Microservices` `Schema Validation`
 
