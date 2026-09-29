@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amantiwarri/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amantiwarri)
-[![Email](https://img.shields.io/badge/Email-amant10%40umd.edu-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amant10@umd.edu)
+[![Email](https://img.shields.io/badge/Email-amantiwarri21%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amant10@umd.edu)
 ![Profile Views](https://komarev.com/ghpvc/?username=aman12334&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
